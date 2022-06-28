@@ -1,5 +1,6 @@
 ### Olá, eu sou a Isabele Leal.
-<img src="https://www.flaticon.com/br/icone-gratis/html-5_919827">
+<img src="![html-5](https://user-images.githubusercontent.com/103459827/176191563-982286c5-0c87-4de0-8785-e301aa0bf786.png)
+">
 
 <!---
 isabeleleal/isabeleleal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
