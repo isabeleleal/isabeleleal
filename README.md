@@ -1,5 +1,5 @@
 ### Olá, eu sou a Isabele Leal.
-Cursando HTML e CSS
+<img src="https://www.flaticon.com/br/icone-gratis/html-5_919827">
 
 <!---
 isabeleleal/isabeleleal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
