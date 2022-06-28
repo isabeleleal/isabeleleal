@@ -1,5 +1,5 @@
 ### Olá, eu sou a Isabele Leal.
-<img src="![html-5](https://user-images.githubusercontent.com/103459827/176191563-982286c5-0c87-4de0-8785-e301aa0bf786.png)
+<img src="https://user-images.githubusercontent.com/103459827/176191563-982286c5-0c87-4de0-8785-e301aa0bf786.png
 ">
 
 <!---
